@@ -1,0 +1,10 @@
+# Replace @personN with real GitHub usernames
+/stacks/10-network/    @person1
+/stacks/30-transit/    @person1
+/stacks/70-inspection/ @person2
+/stacks/00-bootstrap/  @person3
+/stacks/40-hybrid/     @person3
+/stacks/20-prod-app/   @person4
+/stacks/50-edge/       @person4
+/stacks/60-monitoring/ @person5
+/docs/                 @person5
